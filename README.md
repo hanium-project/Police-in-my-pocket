@@ -1,5 +1,8 @@
 # Police-in-my-pocket
 
+### Link
+👉 https://delicious-polyester-fd5.notion.site/03dceb93daca46cf8670bfd29d7f0633
+
 ### Tech Stack
 ![캡처](https://user-images.githubusercontent.com/96467030/166873501-eeba7d0a-5879-4084-b270-c8be3178a20e.PNG)
 
