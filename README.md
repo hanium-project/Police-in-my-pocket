@@ -1,7 +1,8 @@
 # Police-in-my-pocket
 
 ### Tech Stack
-![image](https://user-images.githubusercontent.com/96467030/177036605-f3a3e29f-a32b-4088-9f38-8272468b1973.png)
+![화면 캡처 2022-07-06 233757](https://user-images.githubusercontent.com/96467030/177576707-6d40f87c-b65d-4703-b163-18e7e990ff5d.png)
+
 
 ### Members
 |NAME|유희진          |문지영    |손효정           |장세은            |이경준 멘토님|
